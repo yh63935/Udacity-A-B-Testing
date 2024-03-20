@@ -1,5 +1,4 @@
 # Analyze A/B Test Results
-## (Udacity Data Analyst Nanodegree Program Project 3)
 
 ### Introduction
 The Analyze A/B Test Results project is part of Udacity's Data Analyst Nanodegree program. The objective of this project is to analyze the results of an A/B test conducted by a company to determine whether they should implement a new page on their e-commerce website or keep the old page.
